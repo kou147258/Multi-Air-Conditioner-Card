@@ -1,0 +1,28 @@
+Multi Air Conditioner Card
+==========================
+
+This repository is a modified fork of:
+
+    Multi Air Conditioner Card
+    https://github.com/doanlong1412/Multi-Air-Conditioner-Card
+    Copyright (c) 2024 doanlong1412
+    Licensed under the MIT License
+
+Origin
+------
+
+The original author is doanlong1412. This fork is based on upstream v1.9.2 and
+carries the version number v1.10.0 for its own changes. No affiliation with or
+endorsement by the original author is implied.
+
+The MIT licence of the upstream work is reproduced in the LICENSE file at the
+root of this repository, as the licence requires for any copy or substantial
+portion of the software. The modifications in this repository are distributed
+under the same terms.
+
+What changed
+------------
+
+See the "What's new in v1.10.0" section at the top of
+`multi-air-conditioner-card.js`, and the change tables in README.md (in both
+Chinese and English).
