@@ -1,0 +1,7 @@
+{
+  "name": "Multi Air Conditioner Card",
+  "description": "多房间空调卡片：实时传感器、完整可视化编辑器、中英双语。 Multi-room air conditioner card: live sensors, full visual editor, Chinese and English.",
+  "render_readme": true,
+  "content_in_root": true,
+  "filename": "multi-air-conditioner-card.js"
+}
